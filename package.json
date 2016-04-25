@@ -1,0 +1,19 @@
+{
+  "name": "tuenti-challenge-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiMA10/TuentiChallenge6.git"
+  },
+  "author": "SantiMA10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SantiMA10/TuentiChallenge6/issues"
+  },
+  "homepage": "https://github.com/SantiMA10/TuentiChallenge6#readme"
+}
